@@ -101,8 +101,7 @@
                 console.log(child);
                 const parent = document.querySelectorAll(".cart-item");
                 console.log(parent);
-                const valideyn = event.target.parentElement;
-                console.log(valideyn);
+                
 
                 // const child = event.target.parentElement.parentElement;
                 // console.log(child);
